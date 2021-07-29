@@ -1,8 +1,4 @@
-# singleExe
-Qt应用程序单例运行
-qt使用qtsingleapplication实现单例运行
-
-#include "mainwindow.h"
+﻿#include "mainwindow.h"
 #include <QtSingleApplication>
 #include <QMessageBox>
 
